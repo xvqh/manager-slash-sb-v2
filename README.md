@@ -14,7 +14,7 @@ index.js (vous pouvez regardée mais pas touchée pars risque de problème.)
 
 # Problème ? 
 
-ajoutée xvqh#9321
+ajoutée leave#1337
 Support serveur
 discord.gg/xyla
 
